@@ -1,0 +1,6 @@
+# Edtor config
+.ropeproject/
+
+# Folders
+models/*
+samples/*
