@@ -4,3 +4,6 @@
 # Folders
 models/*
 samples/*
+
+# Models files
+*.pt
